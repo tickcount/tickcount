@@ -9,9 +9,3 @@ Welcome to my profile. I'm Salvatore, 19 years old and currently researching Win
 - ![Gamesense Logo](https://gamesense.pub/favicon.ico) __Gamesense__ - [Salvatore](https://gamesense.pub/forums/profile.php?id=1349)
 - ![Neverlose Logo](https://i.imgur.com/pGkUZra.png) __Neverlose__ - [Salvatore](https://forum.neverlose.cc/u/Salvatore/summary)
 - ![Onetap Logo](https://www.onetap.com/favicon-16x16.png) __Onetap__ - [Salvatore](https://www.onetap.com/members/salvatore.266)
-
-## 🌇 Information regarding private scripts
-- I **don't** sell and have **never** sold private scripts for gamesense, onetap or any other cheat provider.
-- „99% of paid luas are pasted also buying luas is fucking retarded“ (c) [AutumnMemer](https://gamesense.pub/forums/profile.php?id=1096)
-- All my scripts are posted [there](https://github.com/tickcount/.ssh) / directly on cheat's forums.
-- ⚠️ Asking me in dms about scripts / luas will result in a permanent block.
