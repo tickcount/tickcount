@@ -16,7 +16,7 @@ Lua API, UI, UIX developer @ neverlose
 [![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@tickcount)
 #### Lua:
 - [gist@tickount/smoothy](https://gist.github.com/tickcount/1822200b1cc6f128d8df6544286a8ec0), a library to perform easing animations.
-- [gist@tickount/memory](https://gist.github.com/tickcount/1822200b1cc6f128d8df6544286a8ec0), an ffi function hooking library (soon to be available open-source)
+- [gist@tickount/memory](https://gist.github.com/tickcount/1f15706f269150b1fa2b6046026f8ef5), an ffi function hooking library (soon to be available open-source)
 - [tickcount/.ssh](https://github.com/tickcount/.ssh), some of my pre-workshop lua scripts for gamesense.
 
 #### Misc:
