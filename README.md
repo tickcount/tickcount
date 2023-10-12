@@ -8,7 +8,6 @@ Lua API, UI, UIX developer @ neverlose
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Salvatore](https://www.youtube.com/legenden)
 - ![Neverlose Logo](https://i.imgur.com/KSMPinP.png) __Neverlose__ - [Salvatore](https://forum.neverlose.cc/u/salvatore)
 - ![Gamesense Logo](https://gamesense.pub/favicon.ico) __Gamesense__ - [Salvatore](https://gamesense.pub/forums/profile.php?id=1349)
-- ![Wakatime Logo](https://wakatime.com/favicon-16x16.png) __WakaTime__ - [tickcount](https://wakatime.com/@tickcount)
 
 ## 🔮 Projects
 [![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d/project/7cc09a32-1e29-4924-aeab-cc92e3f2513b.svg)](https://wakatime.com/@tickcount)
