@@ -1,5 +1,5 @@
 # Salvatore
-Welcome to my profile. I'm Salvatore, 20 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
+Welcome to my profile. I'm Salvatore, 21 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
 
 Lua API, UI, UIX developer @ neverlose
 
@@ -10,9 +10,11 @@ Lua API, UI, UIX developer @ neverlose
 - ![Gamesense Logo](https://gamesense.pub/favicon.ico) __Gamesense__ - [Salvatore](https://gamesense.pub/forums/profile.php?id=1349)
 
 ## 🔮 Projects
-[![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d/project/7cc09a32-1e29-4924-aeab-cc92e3f2513b.svg)](https://wakatime.com/@tickcount)
-
+![counter](https://moe-counter.glitch.me/get/@tickcount?theme=asoul) \
+\
+[![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d/project/7cc09a32-1e29-4924-aeab-cc92e3f2513b.svg)](https://wakatime.com/@tickcount)\
 [![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@tickcount)
+
 #### Lua:
 - [tickount/voice-listener.lua](https://github.com/tickcount/voice-listener.lua), a cheat revealing library for neverlose cs:go.
 - [tickount/lagrecord-csgo.lua](https://github.com/tickcount/lagrecord-csgo.lua), a lagrecord poc library for neverlose cs:go.
