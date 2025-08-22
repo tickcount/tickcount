@@ -1,7 +1,13 @@
 # Salvatore
-Welcome to my profile. I'm Salvatore, 22 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
+I’m Salvatore, a 22-year-old developer from Russia (🇷🇺) with strong interests in software engineering, reverse engineering, security research, and UI/UX design.
 
-CS2 Software Developer, UI/UX Designer @ Neverlose
+I'm proficient in:
+- Low-level development and systems programming with C++ and Assembly (ASM)
+- Game hacking and reverse engineering with a focus on modern code, security and performance optimization
+- UI/UX designing, from layout concepts to functional interface implementations
+- Scripting and automation using Lua, along with practical knowledge of PHP and JavaScript
+
+Software Engineer, UI/UX Designer @ Neverlose
 
 ## 💬 Socials
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Salvatore](https://steamcommunity.com/id/edgesubtle/)
