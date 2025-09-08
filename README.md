@@ -1,12 +1,6 @@
 # Salvatore
 I’m Salvatore, a 22-year-old developer from Russia (🇷🇺) with strong interests in software engineering, reverse engineering, security research, and UI/UX design.
 
-I'm proficient in:
-- Low-level development and systems programming with C++ and Assembly (ASM)
-- Game hacking and reverse engineering with a focus on modern code, security and performance optimization
-- UI/UX designing, from layout concepts to functional interface implementations
-- Scripting and automation using Lua, along with practical knowledge of PHP and JavaScript
-
 Software Engineer, UI/UX Designer @ Neverlose
 
 ## 💬 Socials
