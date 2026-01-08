@@ -1,5 +1,5 @@
 # Salvatore
-I’m Salvatore, a 22-year-old developer from Russia (🇷🇺) with strong interests in software engineering, reverse engineering, security research, and UI/UX design.
+I’m Salvatore, a 23-year-old developer from Russia (🇷🇺) with strong interests in software engineering, reverse engineering, security research, and UI/UX design.
 
 Software Engineer, UI/UX Designer @ Neverlose
 
