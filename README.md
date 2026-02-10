@@ -7,8 +7,6 @@
 - ![Perception Logo](https://i.imgur.com/AeHR1CU.png) __Perception__ - [Salvatore](https://perception.cx/members/salvatore.1225/)
 
 ## 🔮 Projects
-![counter](https://moe-counter.glitch.me/get/@tickcount?theme=asoul) \
-\
 [![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d.svg)](https://wakatime.com/@5c3ab2ae-85cd-4879-8b50-f38f7149dd2d)\
 [![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@tickcount)
 
