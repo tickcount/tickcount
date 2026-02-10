@@ -1,8 +1,4 @@
 # Salvatore
-I’m Salvatore, a 23-year-old developer from Russia (🇷🇺) with strong interests in software engineering, reverse engineering, security research, and UI/UX design.
-
-Software Engineer, UI/UX Designer @ Neverlose
-
 ## 💬 Socials
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Salvatore](https://steamcommunity.com/id/edgesubtle/)
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Salvatore](https://www.youtube.com/legenden)
