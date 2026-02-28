@@ -9,6 +9,9 @@
 [![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d.svg)](https://wakatime.com/@5c3ab2ae-85cd-4879-8b50-f38f7149dd2d)\
 [![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@tickcount)
 
+#### Web:
+- [tickcount/luci-theme](https://github.com/tickcount/luci-theme), a modern OpenWrt LuCI theme inspired by claude code docs.
+
 #### Lua:
 - [tickount/voice-listener.lua](https://github.com/tickcount/voice-listener.lua), a cheat revealing library for neverlose cs:go.
 - [tickount/lagrecord-csgo.lua](https://github.com/tickcount/lagrecord-csgo.lua), a lagrecord poc library for neverlose cs:go.
