@@ -101,6 +101,21 @@ Two LuCI projects for OpenWrt.
 
 </details>
 
+## 🛡️ Security research
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88074">CVE-2026-88074</a></h3>
+      <p><sub>Microsoft · October 2026</sub></p>
+      <p><b>Windows VBS Enclave Elevation of Privilege</b><br><sub>Critical · CVSS 7.8 · CWE-190</sub></p>
+      <p>An integer overflow in a Microsoft-signed Virtualization-Based Security enclave: it checked a host-supplied buffer with one size calculation and wrote through it with another. From a standard user account, that mismatch led to code execution inside VTL1, the secure half of VBS. Fixed in Microsoft's October 2026 security updates.</p>
+      <p>With <a href="https://github.com/ntkrnlmp">Kerim Lihić</a> and <a href="https://github.com/realandi">Andi Tafilaj</a>.</p>
+      <p><a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88074">MSRC advisory →</a> &nbsp;·&nbsp; <a href="https://reallyitsandi.com/#/blog/cve-2026-88074">Read the write-up →</a></p>
+    </td>
+  </tr>
+</table>
+
 ## 🧱 Stack
 
 <table>
